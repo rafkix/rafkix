@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm rafkix</h1>
+<h1 align="center">Hi 👋, I'm Diyorbek Abdumutalib</h1>
 <h3 align="center">A python backend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bek1me&label=Profile%20views&color=0e75b6&style=flat" alt="bek1me" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafkix&label=Profile%20views&color=0e75b6&style=flat" alt="rafkix" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bek1me" alt="bek1me" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafkix" alt="rafkix" /></a> </p>
 
 
 - 🔭 I’m currently working on 
@@ -12,7 +12,7 @@
 
 - 🤝 My last freelance project 
 
-- 📫 How to reach me **dabdumutalibov102@gmail.com**
+- 📫 How to reach me **rafkixuz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
