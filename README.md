@@ -1,47 +1,103 @@
-# Diyorbek Abdumutalib
-### Backend Engineer — Building Reliable Systems
-
-<samp>
-  📧 [rafkixuz@gmail.com](mailto:rafkixuz@gmail.com) &nbsp;•&nbsp; 
-  💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) &nbsp;•&nbsp;
-  🐙 [GitHub Profile](https://github.com/rafkix)
-</samp>
-
----
-
-## 🎯 Profile
-
-I am a passionate Backend Engineer focused on building secure, robust, and highly scalable distributed systems. My core engineering practices revolve around clean architecture, meticulous database query optimization, and developing high-performance REST APIs designed to handle real-world production loads.
-
----
-
-## 🛠️ Technical Expertise
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=Diyorbek%20Abdumutalib&subtitle=Backend%20Engineer%20•%20Building%20Reliable%20Systems&fontSize=32&subtitleSize=16&fontColor=ffffff&animation=twinkling" alt="Banner" />
 </p>
-
-### 🏗️ Architectural Focus
-*   **🔒 Security:** Secure authentication infrastructure (JWT, OAuth, secure token rotation, and distributed session tracking).
-*   **⚡ Optimization:** High-velocity caching architectures and highly optimized relational database querying.
-*   **📐 System Design:** Implementing strict Clean Architecture patterns (decoupled Services and Repositories) for enterprise-grade scalability.
-
----
-
-## 📊 GitHub System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafkix&show_icons=true&title_color=6366F1&icon_color=4F46E5&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafkix&layout=compact&title_color=6366F1&icon_color=4F46E5&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" width="49%" />
+  <a href="mailto:rafkixuz@gmail.com"><img src="https://img.shields.io/badge/Email-rafkixuz@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rafkix"><img src="https://img.shields.io/badge/GitHub-rafkix-4F46E5?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<div align="right">
-  <samp><i style="color: #6366F1;">"Clean code always looks like it was written by someone who cares."</i> — Michael Feathers</samp>
+## 🎯 About Me
+
+> I am a passionate **Backend Engineer** focused on building secure, robust, and highly scalable distributed systems. My core philosophy revolves around clean architecture, meticulous query optimization, and developing high-performance REST APIs that stand up to real-world production loads.
+
+---
+
+## 🛠️ Technical Toolkit
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" style="border: 1px solid #4F46E5;">
+      <h4>🧠 Languages & Frameworks</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="33.3%" align="center" style="border: 1px solid #4F46E5;">
+      <h4>🗄️ Databases & Caching</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+    <td width="33.3%" align="center" style="border: 1px solid #4F46E5;">
+      <h4>⚙️ DevOps & Servers</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Featured Work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #4338CA; padding: 15px;">
+      <h3>🔐 <a href="https://github.com/rafkix/auth-service" style="color: #818CF8;">Auth Service</a></h3>
+      <p><em>Production-ready JWT authentication system.</em></p>
+      <ul>
+        <li>Secure Access/Refresh token lifecycle.</li>
+        <li>Token rotation & immediate revocation.</li>
+        <li>Active device & session tracking.</li>
+        <li><b>Redis-backed</b> high-speed blacklist.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #4338CA; padding: 15px;">
+      <h3>📦 <a href="https://github.com/rafkix/api-template" style="color: #818CF8;">API Template</a></h3>
+      <p><em>Scalable and reusable backend boilerplate.</em></p>
+      <ul>
+        <li>Strict Clean Architecture (Services, Repositories).</li>
+        <li>Centralized global error and exception handling.</li>
+        <li>Enterprise-ready layout for rapid scaling.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #4338CA; padding: 15px;">
+      <h3>⚡ <a href="https://github.com/rafkix/rate-limiter" style="color: #818CF8;">Rate Limiter</a></h3>
+      <p><em>Custom distributed traffic control system.</em></p>
+      <ul>
+        <li>Mitigates DDoS and API abuse effectively.</li>
+        <li>Utilizes <b>Redis</b> atomic operations for low latency.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #4338CA; padding: 15px;" align="center">
+      <br/>
+      <h4 style="color: #A5B4FC;">💡 More Projects</h4>
+      <p>Check out my profile for automation tools, web scrapers, and architectures.</p>
+      <a href="https://github.com/rafkix?tab=repositories" style="background-color: #4F46E5; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 10px;"><b>Explore Repositories ➔</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafkix&show_icons=true&theme=indigo&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafkix&layout=compact&theme=indigo&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafkix&theme=indigo&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+<div align="center">
+  <p>🚀 <i style="color: #818CF8;">"Clean code always looks like it was written by someone who cares."</i> — Michael Feathers</p>
+  <img src="https://raw.githubusercontent.com/rafkix/rafkix/main/assets/indigo-line.png" onerror="this.style.display='none'" width="100%" height="2px" />
 </div>
